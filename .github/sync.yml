@@ -1,0 +1,9 @@
+group:
+  repos: |
+    transformstudios/statamic-events
+  files:
+    - workflows/draft-release.yml
+    - release-drafter.yml
+    - workflows/label-pr.yml
+    - pr-labeler.yml
+    - workflows/update-changelog.yml
