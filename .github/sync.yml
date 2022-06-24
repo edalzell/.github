@@ -4,6 +4,5 @@ group:
   files:
     - .github/workflows/draft-release.yml
     - .github/workflows/label-pr.yml
-    - .github/workflows/update-changelog.yml
-    - .github/pr-labeler.yml
+    - .github/workflows/release.yml
     - .github/release-drafter.yml
