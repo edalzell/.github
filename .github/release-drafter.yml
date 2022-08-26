@@ -17,7 +17,7 @@ categories:
       - 'improvement'
   - title: '🧰 Maintenance'
     label: 'chore'
-change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+change-template: '- $TITLE [@$AUTHOR](https://github.com/$AUTHOR) (#$NUMBER)'
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 version-resolver:
   major:
@@ -25,12 +25,16 @@ version-resolver:
       - 'major'
   minor:
     labels:
-      - 'minor'
+      - 'feature'
+      - 'enhancement'
+      - 'change'
+      - 'improve'
+      - 'improvement'
   patch:
     labels:
-      - 'patch'
+      - 'fix'
+      - 'bugfix'
+      - 'bug'
   default: patch
 template: |
-  ## Changes
-
   $CHANGES
