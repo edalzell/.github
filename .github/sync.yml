@@ -3,7 +3,7 @@ group:
     transformstudios/simple-addon
     transformstudios/statamic-events
   files:
-    - .github/workflows/draft-release.yml
+    - .github/workflows/create-draft-release.yml
     - .github/workflows/label-pr.yml
     - .github/workflows/release.yml
     - .github/release-drafter.yml
