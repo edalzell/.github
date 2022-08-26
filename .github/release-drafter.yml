@@ -15,6 +15,7 @@ categories:
       - 'change'
       - 'improve'
       - 'improvement'
+      - 'sync'
   - title: '🧰 Maintenance'
     label: 'chore'
 change-template: '- $TITLE [@$AUTHOR](https://github.com/$AUTHOR) (#$NUMBER)'
