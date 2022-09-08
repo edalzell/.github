@@ -2,6 +2,7 @@ group:
   repos: |
     transformstudios/simple-addon
     transformstudios/statamic-events
+    transformstudios/statamic-review
   files:
     - .github/workflows/create-draft-release.yml
     - .github/workflows/label-pr.yml
