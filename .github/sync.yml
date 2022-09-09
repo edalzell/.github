@@ -1,5 +1,6 @@
 group:
   repos: |
+    silentzco/statamic-charge
     transformstudios/simple-addon
     transformstudios/statamic-events
     transformstudios/statamic-review
