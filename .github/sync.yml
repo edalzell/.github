@@ -9,3 +9,4 @@ group:
     - .github/workflows/label-pr.yml
     - .github/workflows/release.yml
     - .github/release-drafter.yml
+    - .github/pr-labeler.yml
