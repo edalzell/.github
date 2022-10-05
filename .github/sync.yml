@@ -2,6 +2,7 @@ group:
   repos: |
     silentzco/statamic-charge
     transformstudios/simple-addon
+    transformstudios/statamic-front
     transformstudios/statamic-events
     transformstudios/statamic-review
   files:
