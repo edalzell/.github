@@ -2,6 +2,7 @@ group:
   repos: |
     silentzco/statamic-akismet
     silentzco/statamic-charge
+    silentzco/statamic-mailchimp
     transformstudios/simple-addon
     transformstudios/statamic-front
     transformstudios/statamic-events
